@@ -6,7 +6,7 @@
 
 My name is Nicholas, and I'd like to go on a journey with you. 
 
-I've been doing this alone for a while. I think its time to find some help, so I went through my tweets and collected my thoughts together all in once place.
+I've been doing this alone for a while. I think its time to find some help, so I went through my tweets and collected my thoughts together all in once place. (Pull requests are welcome, I've likely spelled tons of things wrong)
 
 I've been on a crusade against marketing automatons. I'd like to make something neat: Help me begin **Iterating toward a crowd-sourced anti-spam system** masquerading as a relationship-centric CRM tool. 
 
@@ -16,6 +16,8 @@ I've been on a crusade against marketing automatons. I'd like to make something 
 > Thoughts?
 >
 > -- @ultimape [(Source)](https://twitter.com/ultimape/status/647573825320787968)
+
+
 
 
 ## Sounds neat, but why?
@@ -218,6 +220,8 @@ I don't really care. I just need some signal to show me I'm on the right track. 
 I also need ideas. I have thoughts on how to implement this and a tentative roadmap in my head, but I need people to pick this apart and beat the idea into the ground.
 
 Mostly I just need something more catchy, #SocialSpamvertising is kinda bad.
+
+Also, I am hopeless at spelling. Feel free to put in Pull Requests if you see errors. 
 
 ##Why call it "Britomartis"?
 
