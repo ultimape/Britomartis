@@ -27,7 +27,7 @@ I've been on a crusade against marketing automatons. I'd like to make something 
 >
 > -- @ultimape [(Source)](https://twitter.com/ultimape/status/562610237640048640)
 
-I see the problem with spam on social networks as being an ecosystem one. I think we're reaching a tipping point where twitter is being overwhelmed with it's own success and we are reaching the marketing equivalent of [Eternal September](https://en.wikipedia.org/wiki/Eternal_September).
+I see the problem with spam on social networks as being an ecosystem one. I think we're reaching a tipping point where twitter is being overwhelmed with it's own succeess and we are reaching the marketing equivalent of [Eternal September](https://en.wikipedia.org/wiki/Eternal_September).
 
 > In my view, automated spammy growthhacking marketers (and services), with their fake follows and faves, are what is destroying twitter.
 >
@@ -177,7 +177,7 @@ Right now, our emperor has no clothes, but because he only sneaks out at night, 
 
 I want to help create a community driven 'nudge'. If we can create a meta-layer of reputation for twitter along the lines of what StackOverflow or Discourse is doing, perhaps we can tip the ecosystem back in our favor.
 
-I believe the key to pulling this off is to have a publicly currated list of advisory filters that tell you what kind of account you are doing with. Let people subscribe to different filter sets, and create a crowdsourced market of filters that we rank and share.
+I believe the key to pulling this off is to have a publicly currated list of advisory filters that tell you what kind of account you are dealing with. Let people subscribe to different filter sets, and create a crowdsourced market of filters that we rank and share. 
 
 The magic happens when you consider: **How would you feel if the highest ranked anti-spam filter is one targeting your app?**
 
