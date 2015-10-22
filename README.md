@@ -18,8 +18,8 @@ I've been on a crusade against marketing automatons. I'd like to make something 
 
 ## Sounds neat, but why?
 
-> ["First rule of the social spaces: if someone can send you a notification, a marketer will figure out how to abuse it.
-> I'm sick of list spam."](https://twitter.com/ultimape/status/562610237640048640)
+> [First rule of the social spaces: if someone can send you a notification, a marketer will figure out how to abuse it.
+> I'm sick of list spam.](https://twitter.com/ultimape/status/562610237640048640)
 
 I see the problem with spam on social networks as being an ecosystem one. I think we're reaching a tipping point where twitter is being overwhelmed with it's own succeess and we are reaching the marketing equivalent of [Eternal September](https://en.wikipedia.org/wiki/Eternal_September).
 
