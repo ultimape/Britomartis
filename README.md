@@ -6,9 +6,9 @@
 
 My name is Nicholas, and I'd like to go on a journey with you. 
 
-I've been doing this alone for a while. I think its time to find some help, so I went through my tweets and collected my thoughts together all in once place. (Pull requests are welcome, I've likely spelled tons of things wrong)
+I've been doing this alone for a while. I think its time to find some help, so I went through my tweets and collected my thoughts together all in once place. I've quoted the tweets here and tried to create a more cohesive story to put my feeling into words. Let me know what you think.
 
-I've been on a crusade against marketing automatons. I'd like to make something neat: Help me begin **Iterating toward a crowd-sourced anti-spam system** masquerading as a relationship-centric CRM tool. 
+TL;DR: I've been on a crusade against marketing automatons. I'd like to make something neat by **Iterating toward a crowd-sourced anti-spam system** masquerading as a relationship-centric CRM tool. 
 
 > [...motto for my crowdsourced twitter overly app: "Combating social spamvertising one relationship at a time."
 > Thoughts?](https://twitter.com/ultimape/status/647573825320787968)
