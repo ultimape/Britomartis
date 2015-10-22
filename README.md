@@ -136,7 +136,7 @@ The beauty of twitter as a community platform is slowly being drowned out by soc
 
 > [Tragedy of the commons is a hard game to fix. Nash equilibrium normally require outside nudges to reach global optima.](https://twitter.com/ultimape/status/564449317201911808)
 
-Right now, our emperor has no clothes, but because he only sneaks out at night, no one is saying anything at all. 
+Right now, our emperor has no clothes, but because he only sneaks out at night, no one is saying anything at all. I'd like to shine a light on this behavior.
 
 I want to help create a community driven 'nudge'. If we can create a meta-layer of reputation for twitter along the lines of what StackOverflow or Discourse is doing, perhaps we can tip the ecosystem back in our favor.
 
