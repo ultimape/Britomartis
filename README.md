@@ -63,11 +63,12 @@ Are we on the Twitter marketing hype train? Because I want off.
 
 ## Why You? Why now?
 
-There are four things you need to know about me: 
+There are five things you need to know about me: 
 
  * I go by [ultimape](http://twitter.com/ultimape/).
  * I have an [obsession with Ze Frank](https://twitter.com/ultimape/status/560498686598606850). 
  * I want to colonize Mars with [swarms of robotic ants](https://twitter.com/search?f=tweets&vertical=default&q=from%3Aultimape%20ants%20mars%20OR%20kidney&src=typd). 
+ * I may be [obsessed with human swarms](https://twitter.com/search?q=crypto%20OR%20equity%20OR%20cryptoequity%20OR%20coop%20OR%20cooperative%20OR%20crowdfund%20OR%20crowdsource%20OR%20income%20OR%20voluntary%20OR%20culture%20OR%20community%20from%3Aultimape&src=typd) too.
  * [*I **really** hate spam*](https://gist.github.com/Nicholas-Perry/852721d4a8b800e81523).
 
 I am a heavy twittter user. It's basically my drug of choice.
