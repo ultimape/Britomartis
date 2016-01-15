@@ -32,7 +32,7 @@ With the rapid rise of of social networks, the popularity of Growth Hacking, Shi
 
 The social spam is coming from many sources:
 
-  *  Overambitious Startups trying to get traction
+  *  Overambitious [Startups trying to get traction](https://twitter.com/ultimape/status/678717098277904384)
   *  Metric driven marketing that misses the forest for the trees
   *  Outsourced PR firms running a script
   *  Misguided small buisness owners plodding in the dark
