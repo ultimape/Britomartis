@@ -134,11 +134,11 @@ Twitter is amazing. But it has problems.
 >
 > [Its important that if you take part in shaming, you also come in with a mindset that they are just misguided. Shaming should include advice](https://twitter.com/ultimape/status/641284447988543488)
 
-The beauty of twitter as a community platform is slowly being drowned out by social spam and automated junk. We need to create a way to nudge people into behaving like good twitter citizens. We need an incentive to stop people from polluting our commons with robotic megaphones running around like misbehaved screaming children. 
+The beauty of twitter as a community platform is slowly being drowned out by social spam and automated junk. We need to create a way to [nudge](https://en.wikipedia.org/wiki/Nudge_theory) people into behaving like good twitter citizens. We need an incentive to stop people from polluting our commons with robotic megaphones running around like misbehaved screaming children. I see it as only way to avoid [The Hecker's Veto](https://en.wikipedia.org/wiki/Heckler%27s_veto) while also prevent stepping on freedom of speech.
 
 > [Tragedy of the commons is a hard game to fix. Nash equilibrium normally require outside nudges to reach global optima.](https://twitter.com/ultimape/status/564449317201911808)
 
-Right now, our emperor has no clothes, but because he only sneaks out at night, no one is saying anything at all. I'd like to shine a light on this behavior.
+Right now, our emperor has no clothes, but because he only sneaks out at night, no one is saying anything at all. I'd like to shine a light on this behavior. Only by highlighting desctructive behavior, putting it on the forefront of our conciousness, can we begin to question the emperor. Some one has to speak up.
 
 I want to help create a community driven 'nudge'. If we can create a meta-layer of reputation for twitter along the lines of what StackOverflow or Discourse is doing, perhaps we can tip the ecosystem back in our favor.
 
