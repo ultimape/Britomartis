@@ -39,7 +39,7 @@ The social spam is coming from many sources:
   *  Various 'Work From Home' scams
   *  MLM schemes that focus too much on gaming 'social selling'
   *  People who haven't read [Why Countent Marketing Fails](http://www.slideshare.net/randfish/why-content-marketing-fails)
-  *  Overzealous political activist trying to force and issue by spamming the message.
+  *  Overzealous political activist trying to force an issue by spamming the message instead of engaging in discourse.
   * [insert your own examples here]
 
 > [Content Marketing is just sharing cool shit with friends.
