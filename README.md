@@ -140,7 +140,7 @@ The beauty of twitter as a community platform is slowly being drowned out by soc
 
 Right now, our emperor has no clothes, but because he only sneaks out at night, no one is saying anything at all. I'd like to shine a light on this behavior. Only by highlighting desctructive behavior, putting it on the forefront of our conciousness, can we begin to question the emperor. Some one has to speak up.
 
-I want to help create a community driven 'nudge'. If we can create a meta-layer of reputation for twitter along the lines of what StackOverflow or Discourse is doing, perhaps we can tip the ecosystem back in our favor.
+I want to help create a community driven 'nudge'. A wiki for filters that anyone can contribute to. If we can create a meta-layer of reputation for twitter, along the lines of what StackOverflow or Discourse is doing, perhaps we can tip the ecosystem back in our favor.
 
 I believe the key to pulling this off is to have a publicly currated list of advisory filters that tell you what kind of account you are dealing with. Let people subscribe to different filter sets, and create a crowdsourced market of filters that we rank and share. 
 
