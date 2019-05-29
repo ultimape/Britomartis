@@ -2,6 +2,7 @@
 
 **Casting a net for for a new breed of spam. Join me in the wild hunt?**
 
+
 ## Uhh, What?
 
 My name is Nicholas, and I'd like to go on a journey with you. 
@@ -12,8 +13,6 @@ TL;DR: I've been on a crusade against marketing automatons. I'd like to make som
 
 > [...motto for my crowdsourced twitter overly app: "Combating social spamvertising one relationship at a time."
 > Thoughts?](https://twitter.com/ultimape/status/647573825320787968)
-
-
 
 
 ## Sounds neat, but why?
@@ -154,7 +153,6 @@ TL;DR: fight bots with bots.
 > [Cost of a Cargo Cult Marketing professional to spam all the things? $111,000
 > Getting banned from Twitter for TOS violation? Priceless.](https://twitter.com/ultimape/status/655159844861800449)
 
-
 No, I don't hate marketers. I've found a tons of really inspirational people who could call themselves marketers. I'd even venture to say that [to sell is human](http://www.amazon.com/To-Sell-Is-Human-Surprising/dp/1594631905). 
 
 > [So I think I'm basically going to try and do this for spam bots on Twitter:](https://twitter.com/ultimape/status/647758438768971777) [XKCD 810 "Constructive"](https://xkcd.com/810/)
@@ -166,6 +164,7 @@ Curiously, the most apt entry in the 95 thesis is #84, and is exactly 140 charac
 
 > [TL;DR: Stop focusing on your follower counts.
 > Do what growth hacking was originally about: Challenging assumptions and testing hypothesis.](https://twitter.com/ultimape/status/560292579687030784)
+
 
 ## How can I help?
 
@@ -181,12 +180,14 @@ Mostly I just need something more catchy, #SocialSpamvertising is kinda bad.
 
 Also, I am hopeless at spelling. Feel free to put in Pull Requests if you see errors. 
 
-##Why call it "Britomartis"?
+
+## Why call it "Britomartis"?
 
 Because if you [created nets, and are BFFs with Artemis](http://ancienthistory.about.com/od/greekgodsoly/bb/GreekGoddesses.htm), you've go to be pretty cool.
 
 It's also a nod to some cool people who created [Block Together](https://blocktogether.org/) - A crowd sourced tool meant to [help with online harassment](http://www.makeuseof.com/tag/blocktogether-tool-built-stop-harassment-now-used-isis/) and a major inspiration for me. 
 
 The shit they have to go through to work toward making twitter a better place makes fighting spam look easy by comparison. At least for me, bots don't bite back.
+
 
 ## Keep being awesome!
