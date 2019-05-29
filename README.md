@@ -157,8 +157,7 @@ TL;DR: fight bots with bots.
 
 No, I don't hate marketers. I've found a tons of really inspirational people who could call themselves marketers. I'd even venture to say that [to sell is human](http://www.amazon.com/To-Sell-Is-Human-Surprising/dp/1594631905). 
 
-> [So I think I'm basically going to try and do this for spam bots on Twitter:
-> [XKCD 810 "Constructive"](https://xkcd.com/810/)](https://twitter.com/ultimape/status/647758438768971777)
+> [So I think I'm basically going to try and do this for spam bots on Twitter:](https://twitter.com/ultimape/status/647758438768971777) [XKCD 810 "Constructive"](https://xkcd.com/810/)
 
 I think the best way to describe what I want to do, is to create a sort of 'Cluestick' to help marketers measure how they are approaching social. I use the term Cluestick as a nod to [the Cluetrain manifest](http://www.cluetrain.com/book/95-theses.html), both the original, and [the New Clues](http://newclues.cluetrain.com/). 
 
@@ -190,4 +189,4 @@ It's also a nod to some cool people who created [Block Together](https://blockto
 
 The shit they have to go through to work toward making twitter a better place makes fighting spam look easy by comparison. At least for me, bots don't bite back.
 
-##Keep being awesome!
+## Keep being awesome!
